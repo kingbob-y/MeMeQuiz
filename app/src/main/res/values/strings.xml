@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">MeMe</string>
+    <string name="instruction">출제할 문제를 입력하세요</string>
+    <string name="hint">여기에 입력하세요.</string>
+    <string name="prompt">Select Option</string>
+    <string-array name="question_option">
+        <item>Select Option</item>
+        <item>Short Answer</item>
+    </string-array>
+    <string-array name="multiple_choice_answer">
+        <item>Select Answer</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </string-array>
+    <string-array name="true_false_answer">
+        <item>Select Answer</item>
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string name="option_a">A</string>
+    <string name="option_b">B</string>
+    <string name="option_c">C</string>
+    <string name="option_d">D</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="prev_button">Prev</string>
+    <string name="next_button">Next</string>
+    <string name="short_answer_fill">답안을 입력하세요.</string>
+    <string name="submit_button">Submit</string>
+    <string name="clear_button">Clear</string>
+    <string name="finish_button">Finish</string>
+    <string name="empty_toast">필드에 문자를 입력하세요.</string>
+    <string name="back_button">Back</string>
+    <string name="question">문제</string>
+    <string name="answer">정답</string>
+    <string name="done_button">Done</string>
+    <string name="number">%d.</string>
+    <string name="your_answer">제출 답안</string>
+    <string name="score">Score: </string>
+    <string name="retake_button">Retake</string>
+    <string name="reset_button">Reset</string>
+
+
+    <string name="backspace">\u232B</string>
+    <string name="classify">Classify</string>
+    <string name="clear">Clear</string>
+    <string name="draw">Draw Here</string>
+    <string name="space">\u2423</string>
+    <string name="submit">\u27A4</string>
+
+    <string name="teacher_button">Teacher</string>
+    <string name="student_button">Student</string>
+    <string name="play_button">Play</string>
+
+</resources>

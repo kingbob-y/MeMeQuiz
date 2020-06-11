@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DBB5E8</color>
+    <color name="colorPrimaryDark">#E7CBEF</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorError">#FF0000</color>
+
+
+    <color name="Gray">#727272</color>
+
+    <color name="colorlogobutton">#C293F2</color>
+    <color name="colorlogobutton_light">#D9BBF8</color>
+    <color name="colorlogoback">#FFFFFF</color>
+
+    <color name="colorText">#FFFFFF</color>
+
+</resources>

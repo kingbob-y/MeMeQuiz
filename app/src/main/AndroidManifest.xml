@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.kingbob_y.MeMeQuiz">
+
+    <application
+        android:allowBackup="true" 
+        android:icon="@mipmap/ic_launcher_meme"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_meme_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.example.kingbob_y.MeMeQuiz.ResultActivity" />
+        <activity android:name="com.example.kingbob_y.MeMeQuiz.QuestionActivity" />
+        <activity android:name="com.example.kingbob_y.MeMeQuiz.QuizActivity">
+
+        </activity>
+        <activity
+            android:name="com.example.kingbob_y.MeMeQuiz.DisplayActivity"
+            android:label="Review" />
+
+        <activity
+            android:name="com.example.kingbob_y.MeMeQuiz.DisplayyActivity"
+            android:label="Preview" />
+
+        <activity
+            android:name="com.example.kingbob_y.MeMeQuiz.ChooseActivity"
+            android:label="MeMe">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.example.kingbob_y.MeMeQuiz.IntroduceActivity"
+            android:label="Introduction" />
+
+    </application>
+
+</manifest>
